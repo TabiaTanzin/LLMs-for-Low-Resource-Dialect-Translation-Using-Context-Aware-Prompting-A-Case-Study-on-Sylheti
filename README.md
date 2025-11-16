@@ -6,6 +6,12 @@ We evaluate five advanced LLMs (GPT-4.1, GPT-4.1-mini, LLaMA 4, Grok 3, and Deep
 
 Extensive experiments show that Sylheti-CAP consistently improves translation quality across models and prompting strategies. Both automatic metrics and human evaluations confirm its effectiveness, while qualitative analysis reveals notable reductions in hallucinations, ambiguities, and awkward phrasing—establishing Sylheti-CAP as a scalable solution for dialectal and low-resource MT.
 
+<p align="center">
+  <b><font color="red">This paper has been accepted at BNLP @ AACL.</font></b>
+  <img src="https://img.shields.io/badge/Accepted-BNLP%20@%20AACL-red" alt="Accepted at BNLP @ AACL">
+</p>
+
+
 ---
 
 ## Sylheti-CAP Prompting Framework
@@ -24,4 +30,20 @@ Sylheti-CAP is a three-stage prompting framework:
 
 ## Sylheti-CAP Framework
 
-![Overview of the Sylheti-CAP prompting framework](sylheti_incontext_cot.drawio%20(3).pdf)
+<img src="Proposed_prompt.png" alt="Overview of the Sylheti-CAP prompting framework" width="320">
+
+## Contact
+
+**Authors**  
+Tabia Tanzin Prama¹³⁵, Christopher M. Danforth¹²³⁴, Peter Sheridan Dodds¹²³⁵⁶  
+
+**Affiliations**  
+¹ Computational Story Lab  
+² Vermont Complex Systems Institute  
+³ Vermont Advanced Computing Center  
+⁴ Department of Mathematics and Statistics  
+⁵ Department of Computer Science  
+University of Vermont, Burlington, VT 05405, USA  
+⁶ Santa Fe Institute, 1399 Hyde Park Rd, Santa Fe, NM 87501, USA  
+
+**Corresponding author:** Tabia Tanzin Prama — 📧 tprama@uvm.edu
